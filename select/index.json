@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "顔",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2026-02-23T17:04:56.026406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kao [顔]",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_Kao_[顔]_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "顔",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/02_顔_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "顔 [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/03_顔_[2024_Remaster]_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "顔",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/04_顔_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "顔",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/05_顔_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "顔",
+      "artist": "Southern All Stars",
+      "has_synced": false,
+      "path": "select/06_顔_Southern_All_Stars.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "02_罵倒＆顔⾯唾責め",
+      "artist": "しるダク専門店",
+      "has_synced": true,
+      "path": "select/07_02_罵倒&顔面唾責め_しるダク専門店.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "顔",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_顔_Ave_Mujica.txt"
+    }
+  ]
+}
